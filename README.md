@@ -1,5 +1,5 @@
 # Notice: 
-In our project, we use a part of source code from [link](https://github.com/yaoing/dan)
+In our project, we use a part of source code from [link](https://github.com/yaoing/dan), this paper is here [DAN](https://arxiv.org/pdf/2109.07270.pdf)
 # Preparation <br />
 - Download pre-trained model of [MSCeleb](https://drive.google.com/file/d/1H421M8mosIVt8KsEWQ1UuYMkQS8X1prf/view) and move the file to ./models
 - Download [RAF-DB dataset](https://drive.google.com/drive/folders/1SLuRWt0IjBO2D7UgLeD06CRGV_unx4LW) and extract the raf-basic dir to ./datasets/raf-basic
